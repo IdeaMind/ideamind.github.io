@@ -29,7 +29,7 @@ force-https: False
 #############
 
 lang: "en"
-author: "Adam Renner"
+author: "Idea Mind LLC"
 title: "Idea Mind"
 description: "Idea Mind: Problem solvers that humans safe, efficient, and empowered"
 keywords: "wearables, IoT, human, effectiveness"
@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/intro-bg2.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -51,7 +51,7 @@ dynamic-typing: True
 shuffle: True # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 15
+type-speed: 12
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
@@ -59,7 +59,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Empower the user"
   - text: "Mold technology to the task"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/images/logo.png"
 
 ##############################
 # Color the browser elements #
@@ -135,7 +135,7 @@ email: "contact@ideamind.io"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Adam Renner is the founder of Idea Mind."
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -168,7 +168,7 @@ social:
 
 pages_list:
   About: 'about'
-  Insights: 'latest-post'
+  Insight: 'latest-post'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
