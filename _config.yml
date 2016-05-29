@@ -51,13 +51,14 @@ dynamic-typing: True
 shuffle: True # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 12
+type-speed: 16
 start-delay: 200
-delete-delay: 5000
+delete-delay: 2000
 lines: # You can add HTML Tags in the Text
-  - text: "Solve difficult problems"
-  - text: "Empower the user"
-  - text: "Mold technology to the task"
+  - text: "Don’t be afraid of the hard problems... —  Larry Page"
+  - text: "…pay attention to what users do, not what they say — Jakob Nielsen"
+  - text: "Make everything as simple as possible, but not simpler. — Albert Einstein"
+  - text: "We are stuck with technology when what we really want is just stuff that works. – Douglas Adams"
 
 me-img: "/images/logo.png"
 
