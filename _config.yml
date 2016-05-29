@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg2.jpg"
+background-img: "img/intro-bg2.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -60,7 +60,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Make everything as simple as possible, but not simpler. — Albert Einstein"
   - text: "We are stuck with technology when what we really want is just stuff that works. – Douglas Adams"
 
-me-img: "/images/logo.png"
+me-img: "images/logo.png"
 
 ##############################
 # Color the browser elements #
