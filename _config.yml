@@ -166,7 +166,6 @@ social:
 
 pages_list:
   About: 'about'
-  Insight: 'latest-post'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
