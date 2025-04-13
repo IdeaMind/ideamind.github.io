@@ -33,13 +33,13 @@ author: "Idea Mind LLC"
 title: "Idea Mind"
 description: "Idea Mind: Problem solvers that humans safe, efficient, and empowered"
 keywords: "wearables, IoT, human, effectiveness"
-favicon: "/img/favicon.ico"
+favicon: "/img/logo/favicon.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/logo/favicon.ico"
 
 background-img: "/img/intro-bg2.jpg"
 
@@ -60,7 +60,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Make everything as simple as possible, but not simpler. — Albert Einstein"
   - text: "We are stuck with technology when what we really want is just stuff that works. – Douglas Adams"
 
-me-img: "images/logo.png"
+me-img: "img/logo/android-chrome-192x192.png"
 
 ##############################
 # Color the browser elements #
@@ -126,7 +126,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "contact@ideamind.io"
+email: "contact@ideamind.us"
 
 ################
 # Author Blurb #
