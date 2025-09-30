@@ -1,0 +1,117 @@
+/* General Body Styles */
+body {
+    background-color: #141020;
+    color: #FAFAFA;
+    font-family: 'Times New Roman', serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Header */
+.site-header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 20px;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    height: 50px; /* Adjust as needed */
+    margin-right: 15px;
+}
+
+.company-name {
+    font-size: 2em;
+    color: #B16361; /* Coral Brain color */
+    font-weight: bold;
+}
+
+/* Main Content */
+main {
+    padding: 20px;
+}
+
+.hero {
+    margin-bottom: 40px;
+}
+
+.main-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.main-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    mask-image: radial-gradient(circle, black 0%, transparent 100%); /* Fades from center out; adjust percentages */
+    -webkit-mask-image: radial-gradient(circle, black 0%, transparent 100%); /* For Safari/older browsers */
+}
+
+.tagline h1 {
+    font-size: 3em;
+    margin: 0;
+}
+
+.tagline p {
+    font-size: 1.2em;
+}
+
+/* Who We Are Section */
+.content-section {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-size: 2.5em;
+}
+
+.content-section h2 {
+    font-size: 1.5em;
+    border-bottom: 2px solid #B16361;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+/* Footer */
+.site-footer {
+    padding: 20px;
+    margin-top: 40px;
+}
+
+.site-footer a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.site-footer a:hover {
+    text-decoration: underline;
+}
+
+.social-icons {
+    margin-top: 20px;
+}
+
+.social-icons a {
+    color: #FFFFFF;
+    font-size: 2em;
+    margin: 0 15px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+    color: #B16361; /* Coral Brain color */
+}
+/* Accessibility */
+a:focus, button:focus {
+    outline: 2px solid #B16361;
+    outline-offset: 2px;
+}
